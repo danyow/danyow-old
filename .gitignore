@@ -1,0 +1,11 @@
+node_modules
+.next
+.DS_Store
+yarn-error.log
+.yalc
+#.idea
+yalc.lock
+package-lock.json
+
+public/*.st
+public/*.toml

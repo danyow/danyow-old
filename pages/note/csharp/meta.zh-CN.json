@@ -1,0 +1,12 @@
+{
+  "algorithm": "算法",
+  "bezier": "贝塞尔",
+  "coroutine": "协程",
+  "csharp": "CSharp",
+  "delay": "CSharp",
+  "encryption": "加密",
+  "i18n": "i18n",
+  "notification": "通知中心框架",
+  "state": "状态机",
+  "unit-test": "单元测试"
+}

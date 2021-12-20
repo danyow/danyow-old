@@ -1,0 +1,48 @@
+---
+title: 关于我
+---
+
+import Callout from "nextra-theme-docs/callout"
+import Features from "components/features"
+import Bleed from 'nextra-theme-docs/bleed'
+
+<style jsx global>{`
+body {
+  background-image: radial-gradient(#ddd 1px, transparent 0),
+    radial-gradient(#ddd 1px, transparent 0);
+  background-position: 0 0, 25px 25px;
+  background-size: 50px 50px;
+}
+.dark body {
+  background-image: radial-gradient(#333 1px, transparent 0),
+    radial-gradient(#333 1px, transparent 0);
+}
+`}</style>
+
+{
+// 用 {} 包裹以将其标记为 javascript，因此 mdx 不会将其放在 p 标签下
+}
+{<h1 className="text-center font-extrabold md:text-5xl mt-8">关于我</h1>}
+
+<Bleed full>
+  <Features />
+</Bleed>
+
+* 为人主动，积极乐观，对新鲜事物十分感兴趣。
+* 能在有压力或没有压力的情况下都可以很好的让自己产生学习的动力。
+* 乐于探究各个框架内部实现，故常去翻阅相关文档，拥有较好的文档阅读能力。
+* 面对项目困难敢于分析、苦想、琢磨，如果一条路走不通那就变换思路。
+* 对于新奇的界面特效有很好的印象，常思考这些特效的实现方式，并且按照自己的方式实现。
+* 热衷浏览程序员开发论坛和社区，吸取大牛分享的干货。
+* 对于国内外Github内分享出来的开源框架，有较多的关注。
+* 我也希望和一群大牛一起工作，因为那样能使我少走弯路，能学到更多的东西。
+
+<Callout emoji="✅">
+  Unity, CSharp, Lua, ObjectC, Ruby, Go, Rust, Python
+</Callout>
+
+<div className="mt-16 mb-20 text-center">
+  [笔记](/note) · [博客](/blog) · [示例](/examples) · [GitHub 仓库](https://github.com/danyow/danyow)
+</div>
+
+![statistics](https://github-readme-stats.vercel.app/api?username=danyow&include_all_commits=true)

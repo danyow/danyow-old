@@ -1,0 +1,6 @@
+{
+  "json": "JSON",
+  "persistent": "持久化数据操作",
+  "protobuf": "ProtocolBuffer",
+  "xml": "xml"
+}

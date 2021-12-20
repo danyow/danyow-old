@@ -1,0 +1,6 @@
+{
+  "fragment": "片段着色器",
+  "shader": "Shader",
+  "surface": "表面着色器",
+  "vertex": "顶点着色器"
+}

@@ -1,0 +1,23 @@
+{
+  "python": "python",
+  "vscode": "vscode",
+  "astronomy": "天文与重力测量",
+  "brew": "brew-mac上的包管理工具",
+  "chocolatey": "chocolatey-windows的包管理工具",
+  "cocos": "CocosCreator",
+  "command": "常用命令",
+  "file-server-mac": "文件服务器-mac",
+  "flask": "Flask全套组件及原理剖析",
+  "flutter": "flutter",
+  "fullstack": "fullstack开源库",
+  "github-page": "Github Page(过时的)",
+  "poetry": "对对子",
+  "quantum": "上帝掷骰子吗？",
+  "ruby-update-mac": "ruby在mac上的升级",
+  "rust": "Rust",
+  "scoop": "Scoop的安装",
+  "ssh": "SSH Windows",
+  "voyager-one": "旅行者一号",
+  "window-to-go": "Windows To Go",
+  "zsh": "zsh的使用"
+}

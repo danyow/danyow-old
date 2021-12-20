@@ -1,0 +1,19 @@
+{
+  "index": {
+    "title": "简介",
+    "type": "nav",
+    "hidden": true
+  },
+  "note": {
+    "title": "笔记",
+    "type": "nav"
+  },
+  "blog": {
+    "title": "博客",
+    "type": "nav"
+  },
+  "examples": {
+    "title": "示例",
+    "type": "nav"
+  }
+}
